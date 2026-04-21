@@ -1,0 +1,41 @@
+OrderID,CustomerID,OrderDate,ProductCategory,ProductName,Quantity,UnitPrice,TotalOrderValue,SalesRep,OrderChannel,OrderPriority,ExpectedDeliveryDate,OrderStatus
+SO-2024-001,C001,2024-01-05,Software,ERP Suite License,10,45000,450000,Arjun Mehta,Online,High,2024-01-20,Completed
+SO-2024-002,C002,2024-01-08,Hardware,Server Rack Unit,5,120000,600000,Priya Sharma,Direct,High,2024-01-25,Completed
+SO-2024-003,C003,2024-01-10,Software,Cloud Subscription,20,8000,160000,Rahul Gupta,Online,Medium,2024-01-28,Completed
+SO-2024-004,C004,2024-01-12,Hardware,Laptop Workstation,15,65000,975000,Sneha Patel,Direct,Medium,2024-02-01,Completed
+SO-2024-005,C005,2024-01-15,Services,IT Consulting,1,250000,250000,Vikram Singh,Phone,Low,2024-02-10,Completed
+SO-2024-006,C006,2024-01-18,Hardware,Industrial Sensors,100,5500,550000,Anjali Desai,Direct,High,2024-02-05,Completed
+SO-2024-007,C007,2024-01-20,Software,MES Software,3,95000,285000,Rohit Joshi,Online,Medium,2024-02-08,Completed
+SO-2024-008,C008,2024-01-22,Services,Project Management,1,500000,500000,Neeraj Kumar,Direct,High,2024-02-15,Completed
+SO-2024-009,C009,2024-01-25,Hardware,Color Mixing Machine,2,180000,360000,Deepika Rao,Phone,Low,2024-02-20,Completed
+SO-2024-010,C010,2024-01-28,Software,Inventory System,1,75000,75000,Aakash Verma,Online,Medium,2024-02-15,Completed
+SO-2024-011,C011,2024-02-01,Hardware,Lab Equipment,8,42000,336000,Meera Iyer,Direct,High,2024-02-20,Completed
+SO-2024-012,C012,2024-02-03,Services,SAP Implementation,1,1200000,1200000,Suresh Nair,Direct,High,2024-03-01,Completed
+SO-2024-013,C013,2024-02-05,Software,Retail Analytics,5,35000,175000,Kavita Bose,Online,Medium,2024-02-25,Completed
+SO-2024-014,C014,2024-02-08,Hardware,Packaging Machine,1,220000,220000,Manish Chauhan,Phone,Low,2024-03-05,Completed
+SO-2024-015,C015,2024-02-10,Software,Supply Chain Suite,2,380000,760000,Pooja Menon,Direct,High,2024-03-01,Completed
+SO-2024-016,C016,2024-02-12,Hardware,Food Processing Unit,1,450000,450000,Rajesh Tiwari,Direct,High,2024-03-10,Completed
+SO-2024-017,C017,2024-02-15,Software,Dealer Management,50,12000,600000,Anita Sharma,Online,Medium,2024-03-05,Completed
+SO-2024-018,C018,2024-02-18,Services,Training Program,1,180000,180000,Sanjay Mishra,Phone,Low,2024-03-10,Completed
+SO-2024-019,C019,2024-02-20,Hardware,Retail POS System,30,18000,540000,Lakshmi Reddy,Online,Medium,2024-03-15,Completed
+SO-2024-020,C020,2024-02-22,Software,Steel Production ERP,1,850000,850000,Bibhuti Das,Direct,High,2024-03-20,Completed
+SO-2024-021,C001,2024-03-01,Services,Support Contract,1,120000,120000,Arjun Mehta,Online,Low,2024-03-20,Completed
+SO-2024-022,C003,2024-03-05,Hardware,Network Switch,20,28000,560000,Rahul Gupta,Direct,Medium,2024-03-25,Completed
+SO-2024-023,C006,2024-03-08,Software,Automation Suite,4,95000,380000,Anjali Desai,Online,High,2024-03-28,Completed
+SO-2024-024,C012,2024-03-10,Services,BI Implementation,1,750000,750000,Suresh Nair,Direct,High,2024-04-01,Completed
+SO-2024-025,C015,2024-03-12,Hardware,Barcode Scanners,200,3500,700000,Pooja Menon,Online,Medium,2024-04-01,Completed
+SO-2024-026,C008,2024-03-15,Software,Project Suite,1,320000,320000,Neeraj Kumar,Direct,High,2024-04-05,Completed
+SO-2024-027,C002,2024-03-18,Hardware,Storage Array,3,185000,555000,Priya Sharma,Direct,High,2024-04-08,Completed
+SO-2024-028,C017,2024-03-20,Services,Audit Consulting,1,200000,200000,Anita Sharma,Phone,Low,2024-04-15,Completed
+SO-2024-029,C011,2024-03-22,Software,Lab Management,2,65000,130000,Meera Iyer,Online,Medium,2024-04-10,Completed
+SO-2024-030,C020,2024-03-25,Hardware,Rolling Mill Sensors,50,9500,475000,Bibhuti Das,Direct,High,2024-04-15,Completed
+SO-2024-031,C004,2024-04-02,Software,HRMS,1,185000,185000,Sneha Patel,Online,Medium,2024-04-22,Completed
+SO-2024-032,C007,2024-04-05,Hardware,CNC Machine Parts,25,14500,362500,Rohit Joshi,Direct,Medium,2024-04-25,Completed
+SO-2024-033,C009,2024-04-08,Software,Paint Formulation,1,95000,95000,Deepika Rao,Online,Low,2024-04-28,Completed
+SO-2024-034,C013,2024-04-10,Services,Store Audit,1,85000,85000,Kavita Bose,Phone,Low,2024-04-30,Completed
+SO-2024-035,C016,2024-04-12,Hardware,Conveyor Belt,2,125000,250000,Rajesh Tiwari,Direct,Medium,2024-05-05,Completed
+SO-2024-036,C005,2024-04-15,Software,Telecom Analytics,3,75000,225000,Vikram Singh,Online,Medium,2024-05-05,Completed
+SO-2024-037,C010,2024-04-18,Services,Warehouse Consulting,1,160000,160000,Aakash Verma,Phone,Low,2024-05-10,Completed
+SO-2024-038,C014,2024-04-20,Software,FMCG Analytics,2,55000,110000,Manish Chauhan,Online,Low,2024-05-10,Completed
+SO-2024-039,C019,2024-04-22,Services,Retail Training,1,95000,95000,Lakshmi Reddy,Phone,Low,2024-05-15,Completed
+SO-2024-040,C018,2024-04-25,Hardware,Service Tool Kit,10,22000,220000,Sanjay Mishra,Direct,Medium,2024-05-15,Completed

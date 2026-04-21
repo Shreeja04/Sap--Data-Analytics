@@ -1,0 +1,21 @@
+CustomerID,TotalOrders,TotalRevenue,AvgPaymentDelay,AvgDeliveryDelay,LatePaymentCount,LateDeliveryCount,RiskScore,RiskCategory,CustomerName,Region,CustomerSegment
+C001,2,570000,-2.5,1.0,0,1,0,Low Risk,Tata Consultancy Services,South Asia,Enterprise
+C002,2,1155000,6.5,1.0,2,1,2,Medium Risk,Infosys Limited,South Asia,Enterprise
+C003,2,720000,-2.0,4.0,0,2,0,Low Risk,Wipro Technologies,South Asia,Enterprise
+C004,2,1160000,3.5,2.0,2,1,2,Medium Risk,HCL Technologies,North India,Mid-Market
+C005,2,475000,-2.0,0.0,0,0,0,Low Risk,Tech Mahindra,West India,Mid-Market
+C006,2,930000,0.0,2.0,1,2,0,Low Risk,Mahindra & Mahindra,West India,Enterprise
+C007,2,647500,0.0,3.0,1,2,0,Low Risk,Bajaj Auto,West India,Mid-Market
+C008,2,820000,4.5,0.0,2,0,2,Medium Risk,Larsen & Toubro,West India,Enterprise
+C009,2,455000,-2.0,4.5,0,2,0,Low Risk,Asian Paints,West India,SMB
+C010,2,235000,-2.0,0.5,0,1,0,Low Risk,Godrej Industries,West India,Mid-Market
+C011,2,466000,-2.0,1.5,0,2,0,Low Risk,Sun Pharmaceutical,West India,Enterprise
+C012,2,1950000,-1.5,0.0,0,0,0,Low Risk,Reliance Industries,West India,Enterprise
+C013,2,260000,0.0,1.0,1,1,0,Low Risk,ITC Limited,East India,Mid-Market
+C014,2,330000,-2.0,6.0,0,2,1,Medium Risk,Dabur India,North India,SMB
+C015,2,1460000,2.5,1.0,2,1,2,Medium Risk,Hindustan Unilever,West India,Enterprise
+C016,2,700000,1.5,3.5,1,2,1,Medium Risk,Nestle India,North India,Mid-Market
+C017,2,800000,0.0,0.0,1,0,0,Low Risk,Maruti Suzuki,North India,Enterprise
+C018,2,400000,-1.5,1.0,0,1,0,Low Risk,Hero MotoCorp,North India,Mid-Market
+C019,2,635000,0.5,2.0,1,2,1,Medium Risk,Titan Company,South India,SMB
+C020,2,1325000,4.5,0.5,2,1,2,Medium Risk,Tata Steel,East India,Enterprise

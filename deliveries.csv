@@ -1,0 +1,41 @@
+DeliveryID,OrderID,CustomerID,PlannedDeliveryDate,ActualDeliveryDate,DeliveryStatus,WarehouseLocation,LogisticsPartner,TrackingNumber,DeliveryType,ShippingCost,DeliveryNotes
+DEL-001,SO-2024-001,C001,2024-01-20,2024-01-22,Delivered,Mumbai,BlueDart,BD9823741,Standard,4500,Slight delay due to customs
+DEL-002,SO-2024-002,C002,2024-01-25,2024-01-24,Delivered,Bangalore,DTDC,DT8812930,Express,6000,Delivered on time
+DEL-003,SO-2024-003,C003,2024-01-28,2024-02-02,Delivered,Bangalore,FedEx,FX1029384,Standard,2800,Delayed - warehouse backlog
+DEL-004,SO-2024-004,C004,2024-02-01,2024-02-05,Delivered,Delhi,BlueDart,BD9934821,Standard,8500,Minor delay
+DEL-005,SO-2024-005,C005,2024-02-10,2024-02-10,Delivered,Pune,DTDC,DT9023847,Standard,3200,On time
+DEL-006,SO-2024-006,C006,2024-02-05,2024-02-08,Delivered,Mumbai,FedEx,FX1139485,Express,9800,3 day delay - traffic
+DEL-007,SO-2024-007,C007,2024-02-08,2024-02-09,Delivered,Pune,BlueDart,BD0034921,Standard,4100,1 day delay
+DEL-008,SO-2024-008,C008,2024-02-15,2024-02-15,Delivered,Mumbai,DHL,DH2938471,Express,12000,On time
+DEL-009,SO-2024-009,C009,2024-02-20,2024-02-28,Delivered,Mumbai,BlueDart,BD0145832,Standard,5500,8 day delay - item damage during transit
+DEL-010,SO-2024-010,C010,2024-02-15,2024-02-16,Delivered,Mumbai,DTDC,DT9134958,Standard,2200,1 day delay
+DEL-011,SO-2024-011,C011,2024-02-20,2024-02-21,Delivered,Mumbai,FedEx,FX1250596,Express,6800,1 day delay
+DEL-012,SO-2024-012,C012,2024-03-01,2024-03-01,Delivered,Mumbai,DHL,DH3049582,Express,18000,On time - high priority
+DEL-013,SO-2024-013,C013,2024-02-25,2024-02-27,Delivered,Kolkata,BlueDart,BD0256943,Standard,4200,2 day delay
+DEL-014,SO-2024-014,C014,2024-03-05,2024-03-12,Delivered,Delhi,DTDC,DT9246069,Standard,7500,7 day delay - parts unavailable
+DEL-015,SO-2024-015,C015,2024-03-01,2024-03-01,Delivered,Mumbai,DHL,DH3160693,Express,11000,On time
+DEL-016,SO-2024-016,C016,2024-03-10,2024-03-14,Delivered,Delhi,FedEx,FX1371807,Express,13500,4 day delay
+DEL-017,SO-2024-017,C017,2024-03-05,2024-03-05,Delivered,Delhi,BlueDart,BD0367054,Standard,5000,On time
+DEL-018,SO-2024-018,C018,2024-03-10,2024-03-10,Delivered,Delhi,DTDC,DT9357180,Standard,3800,On time
+DEL-019,SO-2024-019,C019,2024-03-15,2024-03-18,Delivered,Bangalore,FedEx,FX1482918,Standard,9200,3 day delay
+DEL-020,SO-2024-020,C020,2024-03-20,2024-03-20,Delivered,Kolkata,DHL,DH3271804,Express,15000,On time
+DEL-021,SO-2024-021,C001,2024-03-20,2024-03-20,Delivered,Mumbai,BlueDart,BD0478165,Standard,3000,On time
+DEL-022,SO-2024-022,C003,2024-03-25,2024-03-28,Delivered,Bangalore,DTDC,DT9468291,Standard,7200,3 day delay
+DEL-023,SO-2024-023,C006,2024-03-28,2024-03-29,Delivered,Mumbai,FedEx,FX1593029,Express,8500,1 day delay
+DEL-024,SO-2024-024,C012,2024-04-01,2024-04-01,Delivered,Mumbai,DHL,DH3382915,Express,16000,On time
+DEL-025,SO-2024-025,C015,2024-04-01,2024-04-03,Delivered,Mumbai,BlueDart,BD0589276,Standard,6500,2 day delay
+DEL-026,SO-2024-026,C008,2024-04-05,2024-04-05,Delivered,Mumbai,DHL,DH3494026,Express,11500,On time
+DEL-027,SO-2024-027,C002,2024-04-08,2024-04-11,Delivered,Bangalore,FedEx,FX1704140,Express,10500,3 day delay
+DEL-028,SO-2024-028,C017,2024-04-15,2024-04-15,Delivered,Delhi,BlueDart,BD0690387,Standard,4500,On time
+DEL-029,SO-2024-029,C011,2024-04-10,2024-04-12,Delivered,Mumbai,DTDC,DT9579402,Standard,4800,2 day delay
+DEL-030,SO-2024-030,C020,2024-04-15,2024-04-16,Delivered,Kolkata,DHL,DH3605137,Express,13200,1 day delay
+DEL-031,SO-2024-031,C004,2024-04-22,2024-04-22,Delivered,Delhi,BlueDart,BD0701498,Standard,4200,On time
+DEL-032,SO-2024-032,C007,2024-04-25,2024-04-30,Delivered,Pune,DTDC,DT9690513,Standard,5800,5 day delay - parts shortage
+DEL-033,SO-2024-033,C009,2024-04-28,2024-04-29,Delivered,Mumbai,FedEx,FX1815251,Standard,3500,1 day delay
+DEL-034,SO-2024-034,C013,2024-04-30,2024-04-30,Delivered,Kolkata,BlueDart,BD0812609,Standard,2800,On time
+DEL-035,SO-2024-035,C016,2024-05-05,2024-05-08,Delivered,Delhi,DTDC,DT9801624,Standard,6200,3 day delay
+DEL-036,SO-2024-036,C005,2024-05-05,2024-05-05,Delivered,Pune,FedEx,FX1926362,Standard,4800,On time
+DEL-037,SO-2024-037,C010,2024-05-10,2024-05-10,Delivered,Mumbai,BlueDart,BD0923720,Standard,3600,On time
+DEL-038,SO-2024-038,C014,2024-05-10,2024-05-15,Delivered,Delhi,DTDC,DT9912735,Standard,3200,5 day delay
+DEL-039,SO-2024-039,C019,2024-05-15,2024-05-16,Delivered,Bangalore,FedEx,FX2037473,Standard,4000,1 day delay
+DEL-040,SO-2024-040,C018,2024-05-15,2024-05-17,Delivered,Delhi,BlueDart,BD1034831,Standard,5500,2 day delay

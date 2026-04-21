@@ -1,0 +1,21 @@
+CustomerID,CustomerName,Region,Country,CustomerSegment,CreditLimit,PaymentTerms,AccountManager,Email,Phone,CustomerSince
+C001,Tata Consultancy Services,South Asia,India,Enterprise,5000000,Net30,Arjun Mehta,procurement@tcs.com,+91-22-67789900,2018-03-15
+C002,Infosys Limited,South Asia,India,Enterprise,4500000,Net45,Priya Sharma,purchase@infosys.com,+91-80-22098765,2017-06-20
+C003,Wipro Technologies,South Asia,India,Enterprise,3000000,Net30,Rahul Gupta,supply@wipro.com,+91-80-28440011,2019-01-10
+C004,HCL Technologies,North India,India,Mid-Market,2000000,Net60,Sneha Patel,orders@hcl.com,+91-120-4251234,2020-04-05
+C005,Tech Mahindra,West India,India,Mid-Market,1500000,Net30,Vikram Singh,procurement@techmahindra.com,+91-20-66018800,2019-08-12
+C006,Mahindra & Mahindra,West India,India,Enterprise,6000000,Net45,Anjali Desai,vendor@mahindra.com,+91-22-24901441,2016-11-23
+C007,Bajaj Auto,West India,India,Mid-Market,2500000,Net30,Rohit Joshi,purchase@bajaj.com,+91-20-27472851,2018-07-14
+C008,Larsen & Toubro,West India,India,Enterprise,7000000,Net60,Neeraj Kumar,procurement@lt.com,+91-22-67525656,2015-09-30
+C009,Asian Paints,West India,India,SMB,800000,Net30,Deepika Rao,orders@asianpaints.com,+91-22-39818000,2021-02-18
+C010,Godrej Industries,West India,India,Mid-Market,1200000,Net45,Aakash Verma,supply@godrej.com,+91-22-67965656,2020-06-07
+C011,Sun Pharmaceutical,West India,India,Enterprise,3500000,Net30,Meera Iyer,purchase@sunpharma.com,+91-22-43242222,2017-12-01
+C012,Reliance Industries,West India,India,Enterprise,10000000,Net45,Suresh Nair,vendor@ril.com,+91-22-44778000,2014-05-15
+C013,ITC Limited,East India,India,Mid-Market,1800000,Net30,Kavita Bose,orders@itc.com,+91-33-22889371,2019-03-22
+C014,Dabur India,North India,India,SMB,600000,Net30,Manish Chauhan,purchase@dabur.com,+91-120-3984000,2021-07-09
+C015,Hindustan Unilever,West India,India,Enterprise,4000000,Net45,Pooja Menon,procurement@hul.com,+91-22-39832000,2016-08-17
+C016,Nestle India,North India,India,Mid-Market,2200000,Net30,Rajesh Tiwari,supply@nestle.in,+91-124-2338000,2018-10-04
+C017,Maruti Suzuki,North India,India,Enterprise,5500000,Net60,Anita Sharma,vendor@maruti.com,+91-11-46781000,2015-03-28
+C018,Hero MotoCorp,North India,India,Mid-Market,1600000,Net30,Sanjay Mishra,orders@heromotocorp.com,+91-11-46044220,2020-09-15
+C019,Titan Company,South India,India,SMB,750000,Net30,Lakshmi Reddy,purchase@titan.co.in,+91-80-66601414,2021-11-03
+C020,Tata Steel,East India,India,Enterprise,8000000,Net60,Bibhuti Das,procurement@tatasteel.com,+91-657-2426500,2013-07-20
